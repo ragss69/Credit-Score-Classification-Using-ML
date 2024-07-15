@@ -18,7 +18,7 @@ This project involves classifying credit scores using machine learning. The proj
 
 ### Visualization
 - **Count Plot:** Displays the count of observations in each categorical bin using bars.
-  ![Count Plot](countplot.png) <!-- Replace with your actual image path -->
+  ![Count Plot](Countplot.png) <!-- Replace with your actual image path -->
 - **Boxplot:** Displays the distribution of data based on a five-number summary.
   ![Boxplot](boxplot.png) <!-- Replace with your actual image path -->
 - **Heatmap:** Displays data values in a matrix form with varying colors.
@@ -33,13 +33,13 @@ This project involves classifying credit scores using machine learning. The proj
 
 ### Confusion Matrix
 - Generated confusion matrices to analyze model predictions and identify areas for improvement in classification accuracy.
-  ![Confusion Matrix](confusion matrix-decisiontrees.png) <!-- Replace with your actual image path -->
+  ![Confusion Matrix](confusion matrix-decision trees.png) <!-- Replace with your actual image path -->
 
 ### Key Learnings and Applications
 - **Data Analysis:** Applied advanced EDA techniques to understand data distribution and relationships.
 - **Data Visualization:** Utilized visualization tools to derive insights from data trends and patterns.
 - **Model Training:** Implemented multiple machine learning models and evaluated their performance comprehensively.
-- **Model Evaluation:** Used metrics like accuracy, precision, recall, and F1 score for a thorough assessment of model effectiveness.
+- **Model Evaluation:** Used metrics like accuracy, precision, recall, and F1 score to thoroughly assess model effectiveness.
 - **Confusion Matrix Analysis:** Analyzed model predictions to improve classification accuracy.
 
 ## Conclusion
