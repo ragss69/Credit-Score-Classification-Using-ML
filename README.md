@@ -33,7 +33,7 @@ This project involves classifying credit scores using machine learning. The proj
 
 ### Confusion Matrix
 - Generated confusion matrices to analyze model predictions and identify areas for improvement in classification accuracy.
-  ![Confusion Matrix](confusion matrix-decision trees.png) <!-- Replace with your actual image path -->
+  ![Confusion Matrix](confusion_matrix-decision_trees.png) <!-- Replace with your actual image path -->
 
 ### Key Learnings and Applications
 - **Data Analysis:** Applied advanced EDA techniques to understand data distribution and relationships.
